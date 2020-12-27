@@ -39,7 +39,10 @@ g = True
 while g:
     ans = int(input("Enter number: "))
     if ans == num:
-        print("You are win!")
+        print("You are win! number is right!")
         g = False
     else:
-        print("Thats wrong, try again...")
+        if ans > num:
+            print("That number more than right number")
+        else:
+            print("That number less then right number")
