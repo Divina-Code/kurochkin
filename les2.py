@@ -11,3 +11,19 @@ print(num)
 from time import sleep
 
 sleep(1)
+
+# // - int number % - float number
+
+print(not True, "- not")
+print(True and True, "- and")
+print(False and True)
+print(False and False)
+print(True or False, "- or")
+print(False or False)
+print(True or True)
+print(True is False, "- is")
+print(False is False)
+print()
+print()
+print()
+print()
