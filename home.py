@@ -141,3 +141,9 @@ while g:
 
 # 5
 
+word = str(input("Enter a word: ")).lower()
+char = len(word) // 2
+if word[::-1] == word:
+    print("Okay")
+else:
+    print("No")
