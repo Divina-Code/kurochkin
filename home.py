@@ -53,11 +53,12 @@ def th():
 
 print("Game 21 start!")
 
-
+# cards
 l = list()
 for i in range(0, 13):
     l.append(i)
 
+# players
 pl1 = r.choice(l)
 l.remove(pl1)
 player1 = 1
@@ -70,8 +71,10 @@ player2 = 2
 steel2 = 1
 print(f"{player2} get card - {pl2}")
 
+# main game
 g = True
 while g:
+    # check
     if steel2 == 0:
         print(f"Player {player2} lose, and {player1} win!")
         break
@@ -79,25 +82,23 @@ while g:
         print(f"Player {player1} lose, and {player2} win!")
         break
     else:
-        print("Okay")
+        print("Everything okay")
 
-    if steel1 == 0:
-        print(f"Player {player1} lose")
+
+    card = r.choice(l)
+    l.remove(card)
+
+    print("Player -", player1, "get card with number -", card)
+    pl1 += card
+    print("Player have now", pl1)
+    if pl1 > 21:
+        print(player1, "- lose")
+        break
+    elif pl1 == 21:
+        print(player1, "- Win!")
+        break
     else:
-        card = r.choice(l)
-        l.remove(card)
-
-        print("Player -", player1, "get card with number -", card)
-        pl1 += card
-        print("Player have now", pl1)
-        if pl1 > 21:
-            print(player1, "- lose")
-            break
-        elif pl1 == 21:
-            print(player1, "- Win!")
-            break
-        else:
-            print("Everything okey")
+        print("Everything okey")
 
         inp = str(input("Do you want continue?(y, n): "))
         if inp == "n":
@@ -137,3 +138,6 @@ while g:
             print(f"Player {player2} exit")
         else:
             steel2 = True
+
+# 5
+

@@ -23,7 +23,30 @@ print(False or False)
 print(True or True)
 print(True is False, "- is")
 print(False is False)
-print()
-print()
-print()
-print()
+
+# strings
+
+print("word" + "-another word")
+print("word\n" * 9)
+
+# slice
+
+print("word"[::-1]) # [START:STOP:STEP]
+print("wordi"[1])
+
+w = "wOrd".upper()
+print(w)
+
+if w.lower() in "dmsvkWord".lower():
+    print("yes")
+
+print("madnes".title())
+
+# function(object) and object.method()
+
+# find
+
+print("word".find("wo"))
+
+print(ord("a"))
+print(chr(ord("A")))

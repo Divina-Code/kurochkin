@@ -20,7 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d3f45f0-bebc-4cec-8f79-404cfa2a4eb2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/add.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/home.py" beforeDir="false" afterPath="$PROJECT_DIR$/home.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/les2.py" beforeDir="false" afterPath="$PROJECT_DIR$/les2.py" afterDir="false" />
@@ -50,7 +49,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunManager" selected="Python.home">
+  <component name="RunManager" selected="Python.les2">
     <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="kurochkin" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -158,8 +157,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.home" />
         <item itemvalue="Python.les2" />
+        <item itemvalue="Python.home" />
         <item itemvalue="Python.add" />
         <item itemvalue="Python.1" />
       </list>
@@ -196,22 +195,22 @@
       <screen x="0" y="31" width="1920" height="1049" />
     </state>
     <state x="743" y="316" width="434" height="487" key="FileChooserDialogImpl/0.31.1920.1049@0.31.1920.1049" timestamp="1609155616261" />
-    <state width="1897" height="227" key="GridCell.Tab.0.bottom" timestamp="1609165587839">
+    <state width="932" height="155" key="GridCell.Tab.0.bottom" timestamp="1609167945308">
       <screen x="0" y="31" width="1920" height="1049" />
     </state>
-    <state width="1897" height="227" key="GridCell.Tab.0.bottom/0.31.1920.1049@0.31.1920.1049" timestamp="1609165587839" />
-    <state width="1897" height="227" key="GridCell.Tab.0.center" timestamp="1609165587838">
+    <state width="932" height="155" key="GridCell.Tab.0.bottom/0.31.1920.1049@0.31.1920.1049" timestamp="1609167945308" />
+    <state width="932" height="155" key="GridCell.Tab.0.center" timestamp="1609167945307">
       <screen x="0" y="31" width="1920" height="1049" />
     </state>
-    <state width="1897" height="227" key="GridCell.Tab.0.center/0.31.1920.1049@0.31.1920.1049" timestamp="1609165587838" />
-    <state width="1897" height="227" key="GridCell.Tab.0.left" timestamp="1609165587838">
+    <state width="932" height="155" key="GridCell.Tab.0.center/0.31.1920.1049@0.31.1920.1049" timestamp="1609167945307" />
+    <state width="932" height="155" key="GridCell.Tab.0.left" timestamp="1609167945306">
       <screen x="0" y="31" width="1920" height="1049" />
     </state>
-    <state width="1897" height="227" key="GridCell.Tab.0.left/0.31.1920.1049@0.31.1920.1049" timestamp="1609165587838" />
-    <state width="1897" height="227" key="GridCell.Tab.0.right" timestamp="1609165587839">
+    <state width="932" height="155" key="GridCell.Tab.0.left/0.31.1920.1049@0.31.1920.1049" timestamp="1609167945306" />
+    <state width="932" height="155" key="GridCell.Tab.0.right" timestamp="1609167945307">
       <screen x="0" y="31" width="1920" height="1049" />
     </state>
-    <state width="1897" height="227" key="GridCell.Tab.0.right/0.31.1920.1049@0.31.1920.1049" timestamp="1609165587839" />
+    <state width="932" height="155" key="GridCell.Tab.0.right/0.31.1920.1049@0.31.1920.1049" timestamp="1609167945307" />
     <state width="1897" height="225" key="GridCell.Tab.1.bottom" timestamp="1609163080569">
       <screen x="0" y="31" width="1920" height="1049" />
     </state>
