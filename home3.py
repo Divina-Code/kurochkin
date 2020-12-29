@@ -2,7 +2,8 @@
 
 inp = input("Enter some words: ").lower()
 inp = inp.split()
-if inp[::-1] == inp:
-    print("Okay")
-else:
-    print("No")
+for word in inp:
+    if word[::-1] == word:
+        print("Okay")
+    else:
+        print("No")

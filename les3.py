@@ -25,6 +25,7 @@ for er in range(0, 10, 2):
 lis = [12, 32, 245, 3425, 4, 9]
 
 for g in range(len(lis)):
-    print("index -", g, "element -", lis[g])
-    #if g > 0 and lis[g] < lis[g-1]:
-        #print(g)
+    if g > 0 and lis[g] > lis[g-1]:
+        print("element", lis[g])
+        lis.append(g-1)
+

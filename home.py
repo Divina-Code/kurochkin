@@ -6,7 +6,7 @@ def ot():
 
     age = 2020 - year
 
-    print("Your age is ", age)
+    print("Your age is ", age, ", and you are", name)
 
     if age >= 18:
         print("I think that you need to watch thriller")
@@ -72,8 +72,8 @@ steel2 = 1
 print(f"{player2} get card - {pl2}")
 
 # main game
-g = True
-while g:
+
+while True:
     # check
     if steel2 == 0:
         print(f"Player {player2} lose, and {player1} win!")
