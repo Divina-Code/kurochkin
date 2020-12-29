@@ -26,6 +26,8 @@ def ot():
         else:
             print("Wrong answer")
 
+ot()
+
 # 3  нужно угадать число загадоное компютером с random, писать число большо загадоного, равно, больше
 
 import random as r
@@ -48,6 +50,8 @@ def th():
                 print("That number more than right number")
             else:
                 print("That number less then right number")
+
+th()
 
 # 4 если у когото при вытаскивании карт будет в сумме больше 21, то он проиграл, а если ровно 21, то выиграл, всвего 3 игрока
 

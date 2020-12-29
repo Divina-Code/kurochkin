@@ -20,11 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d3f45f0-bebc-4cec-8f79-404cfa2a4eb2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lessons/les.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/les2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/les3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progs_bar.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/home.py" beforeDir="false" afterPath="$PROJECT_DIR$/home.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/home3.py" beforeDir="false" afterPath="$PROJECT_DIR$/home3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/les3.py" beforeDir="false" afterPath="$PROJECT_DIR$/les3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/les.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/les.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/les2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/les3.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +57,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunManager" selected="Python.home3">
+  <component name="RunManager" selected="Python.progs_bar">
     <configuration name="home" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="kurochkin" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -137,27 +142,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="les2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="kurochkin" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/les2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="les3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="kurochkin" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -179,13 +163,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="progs_bar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="kurochkin" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/progs_bar.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.progs_bar" />
         <item itemvalue="Python.home3" />
         <item itemvalue="Python.home" />
         <item itemvalue="Python.les3" />
         <item itemvalue="Python.home2" />
-        <item itemvalue="Python.les2" />
       </list>
     </recent_temporary>
   </component>
@@ -220,22 +225,22 @@
       <screen x="0" y="31" width="1920" height="1049" />
     </state>
     <state x="743" y="316" width="434" height="487" key="FileChooserDialogImpl/0.31.1920.1049@0.31.1920.1049" timestamp="1609185954435" />
-    <state width="1032" height="197" key="GridCell.Tab.0.bottom" timestamp="1609247397656">
+    <state width="1032" height="197" key="GridCell.Tab.0.bottom" timestamp="1609248134892">
       <screen x="0" y="31" width="1920" height="1049" />
     </state>
-    <state width="1032" height="197" key="GridCell.Tab.0.bottom/0.31.1920.1049@0.31.1920.1049" timestamp="1609247397656" />
-    <state width="1032" height="197" key="GridCell.Tab.0.center" timestamp="1609247397656">
+    <state width="1032" height="197" key="GridCell.Tab.0.bottom/0.31.1920.1049@0.31.1920.1049" timestamp="1609248134892" />
+    <state width="1032" height="197" key="GridCell.Tab.0.center" timestamp="1609248134892">
       <screen x="0" y="31" width="1920" height="1049" />
     </state>
-    <state width="1032" height="197" key="GridCell.Tab.0.center/0.31.1920.1049@0.31.1920.1049" timestamp="1609247397656" />
-    <state width="1032" height="197" key="GridCell.Tab.0.left" timestamp="1609247397655">
+    <state width="1032" height="197" key="GridCell.Tab.0.center/0.31.1920.1049@0.31.1920.1049" timestamp="1609248134892" />
+    <state width="1032" height="197" key="GridCell.Tab.0.left" timestamp="1609248134892">
       <screen x="0" y="31" width="1920" height="1049" />
     </state>
-    <state width="1032" height="197" key="GridCell.Tab.0.left/0.31.1920.1049@0.31.1920.1049" timestamp="1609247397655" />
-    <state width="1032" height="197" key="GridCell.Tab.0.right" timestamp="1609247397656">
+    <state width="1032" height="197" key="GridCell.Tab.0.left/0.31.1920.1049@0.31.1920.1049" timestamp="1609248134892" />
+    <state width="1032" height="197" key="GridCell.Tab.0.right" timestamp="1609248134892">
       <screen x="0" y="31" width="1920" height="1049" />
     </state>
-    <state width="1032" height="197" key="GridCell.Tab.0.right/0.31.1920.1049@0.31.1920.1049" timestamp="1609247397656" />
+    <state width="1032" height="197" key="GridCell.Tab.0.right/0.31.1920.1049@0.31.1920.1049" timestamp="1609248134892" />
     <state width="1897" height="225" key="GridCell.Tab.1.bottom" timestamp="1609171518923">
       <screen x="0" y="31" width="1920" height="1049" />
     </state>
