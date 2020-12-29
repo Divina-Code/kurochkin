@@ -50,3 +50,17 @@ print("word".find("wo"))
 
 print(ord("a"))
 print(chr(ord("A")))
+
+# lists
+
+lis = ["Darenka", "Bonya", "Jenny"]
+
+print(f"number of elements {len(lis)}")
+print(sorted(lis))
+lis.sort()
+print(lis)
+print(lis[1])
+lis.append("Tom")
+lis.pop(0)
+print(lis)
+print(lis)

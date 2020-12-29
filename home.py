@@ -141,7 +141,7 @@ while g:
 
 # 5
 
-word = str(input("Enter a word: ")).lower()
+word = input("Enter a word: ").lower()
 if word[::-1] == word:
     print("Okay")
 else:
