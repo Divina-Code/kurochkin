@@ -2,14 +2,15 @@
 from sys import stderr
 from time import sleep
 
-for g in range(250):
+inp = int(input("Enter number: "))
+
+for g in range(inp):
     val = '█'
     emp_space = ' '
-    it = 250
     val *= int(g / 10)
-    emp_space *= int((it - 1 - g) / 10)
-    if g == it - 1:
-        stderr.write(f'\r|{val}{emp_space}| - {g + 1}/{it}\n')
+    emp_space *= int((inp - 1 - g) / 10)
+    if g == inp - 1:
+        stderr.write(f'\r|{val}{emp_space}| - {g + 1}/{inp}\n')
     else:
-        stderr.write(f'\r|{val}{emp_space}| - {g + 1}/{it}')
+        stderr.write(f'\r|{val}{emp_space}| - {g + 1}/{inp}')
     sleep(0.01)
