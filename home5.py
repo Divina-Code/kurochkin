@@ -9,5 +9,5 @@ speclet = list("!@#$%^&*()?><:~")
 from random import choice
 
 word1 = choice(st)
-word2 = choice(stp
+word2 = choice(stp)
 word3 = choice(speclet)

@@ -5,7 +5,11 @@
 
 '''
 
-word_list = {}
+from random import choice
+
+word_list = {
+    "word" : "w"
+}
 
 while True:
     inp = input("Enter command: ")
@@ -30,5 +34,17 @@ while True:
             word_list.pop(word)
             print(f"{word} was deleted fortunately")
             print(word_list)
+    if inp == "play":
+        lis = []
+        for g in word_list:
+            lis.append(g)
+        word = choice(lis)
+        while True:
+            ans = input(f"Enter translation of {word}: ")
+            if ans == word_list[word]:
+                print("You win!")
+                break
+            else:
+                print("Try agan")
     if inp == "exit":
         break
