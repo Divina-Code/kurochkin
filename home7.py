@@ -25,7 +25,7 @@ while True:
     if inp == "del":
         word = input("Enter word that you want to delete: ")
         if word_list.get(word) == None:
-            print("Try another password or register")
+            print("Try agan")
         else:
             word_list.pop(word)
             print(f"{word} was deleted fortunately")
