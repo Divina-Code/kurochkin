@@ -13,7 +13,6 @@ def ans_mess(message):
     user = message.chat.username
     id = message.chat.id
     bot.send_message(id, "Enter some word")
-    # bot.send_message(id, f"Hello {user}, you write this - {message.text}") # message.text[::-1]
     inp = message.text.lower().split()
     for word in inp:
         if word[::-1] == word:
