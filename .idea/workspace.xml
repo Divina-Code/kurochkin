@@ -20,10 +20,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d3f45f0-bebc-4cec-8f79-404cfa2a4eb2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/21_telega.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons/less4.5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/add.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/add.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/home.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/home2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/home3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/home4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/home5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/home6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/home7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/progs_bar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/Питон.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telega.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/add.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/add.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/progs_bar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Питон.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,9 +71,9 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Python.21_telega">
+  <component name="RunManager" selected="Python.telega">
     <configuration name="21_telega" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="kurochkin" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -73,7 +95,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="home6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="home3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="kurochkin" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -85,7 +107,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/home6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/home3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="home7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="home4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="kurochkin" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -106,7 +128,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/home7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/home4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,27 +158,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="les4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="kurochkin" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lessons" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lessons/les4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="less4.5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="kurochkin" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -178,13 +179,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="telega" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="kurochkin" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/telega.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.telega" />
+        <item itemvalue="Python.home3" />
+        <item itemvalue="Python.home4" />
         <item itemvalue="Python.21_telega" />
         <item itemvalue="Python.less4.5" />
-        <item itemvalue="Python.home7" />
-        <item itemvalue="Python.les4" />
-        <item itemvalue="Python.home6" />
       </list>
     </recent_temporary>
   </component>
@@ -215,26 +237,30 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1097" y="393" width="529" height="330" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1609344234239">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state x="1097" y="393" width="529" height="330" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.31.1920.1049@0.31.1920.1049" timestamp="1609344234239" />
     <state x="743" y="316" width="434" height="487" key="FileChooserDialogImpl" timestamp="1609185954435">
       <screen x="0" y="31" width="1920" height="1049" />
     </state>
     <state x="743" y="316" width="434" height="487" key="FileChooserDialogImpl/0.31.1920.1049@0.31.1920.1049" timestamp="1609185954435" />
-    <state width="1032" height="210" key="GridCell.Tab.0.bottom" timestamp="1609343820029">
+    <state width="1032" height="210" key="GridCell.Tab.0.bottom" timestamp="1609760929804">
       <screen x="0" y="31" width="1920" height="1049" />
     </state>
-    <state width="1032" height="210" key="GridCell.Tab.0.bottom/0.31.1920.1049@0.31.1920.1049" timestamp="1609343820029" />
-    <state width="1032" height="210" key="GridCell.Tab.0.center" timestamp="1609343820029">
+    <state width="1032" height="210" key="GridCell.Tab.0.bottom/0.31.1920.1049@0.31.1920.1049" timestamp="1609760929804" />
+    <state width="1032" height="210" key="GridCell.Tab.0.center" timestamp="1609760929803">
       <screen x="0" y="31" width="1920" height="1049" />
     </state>
-    <state width="1032" height="210" key="GridCell.Tab.0.center/0.31.1920.1049@0.31.1920.1049" timestamp="1609343820029" />
-    <state width="1032" height="210" key="GridCell.Tab.0.left" timestamp="1609343820028">
+    <state width="1032" height="210" key="GridCell.Tab.0.center/0.31.1920.1049@0.31.1920.1049" timestamp="1609760929803" />
+    <state width="1032" height="210" key="GridCell.Tab.0.left" timestamp="1609760929803">
       <screen x="0" y="31" width="1920" height="1049" />
     </state>
-    <state width="1032" height="210" key="GridCell.Tab.0.left/0.31.1920.1049@0.31.1920.1049" timestamp="1609343820028" />
-    <state width="1032" height="210" key="GridCell.Tab.0.right" timestamp="1609343820029">
+    <state width="1032" height="210" key="GridCell.Tab.0.left/0.31.1920.1049@0.31.1920.1049" timestamp="1609760929803" />
+    <state width="1032" height="210" key="GridCell.Tab.0.right" timestamp="1609760929804">
       <screen x="0" y="31" width="1920" height="1049" />
     </state>
-    <state width="1032" height="210" key="GridCell.Tab.0.right/0.31.1920.1049@0.31.1920.1049" timestamp="1609343820029" />
+    <state width="1032" height="210" key="GridCell.Tab.0.right/0.31.1920.1049@0.31.1920.1049" timestamp="1609760929804" />
     <state width="1897" height="225" key="GridCell.Tab.1.bottom" timestamp="1609171518923">
       <screen x="0" y="31" width="1920" height="1049" />
     </state>
@@ -251,10 +277,10 @@
       <screen x="0" y="31" width="1920" height="1049" />
     </state>
     <state width="1897" height="225" key="GridCell.Tab.1.right/0.31.1920.1049@0.31.1920.1049" timestamp="1609171518921" />
-    <state x="798" y="213" width="1022" height="733" key="SettingsEditor" timestamp="1609341573244">
+    <state x="798" y="213" width="1022" height="733" key="SettingsEditor" timestamp="1609344213303">
       <screen x="0" y="31" width="1920" height="1049" />
     </state>
-    <state x="798" y="213" width="1022" height="733" key="SettingsEditor/0.31.1920.1049@0.31.1920.1049" timestamp="1609341573244" />
+    <state x="798" y="213" width="1022" height="733" key="SettingsEditor/0.31.1920.1049@0.31.1920.1049" timestamp="1609344213303" />
     <state x="1013" y="293" width="672" height="678" key="search.everywhere.popup" timestamp="1609245771655">
       <screen x="0" y="31" width="1920" height="1049" />
     </state>
