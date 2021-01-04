@@ -20,32 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d3f45f0-bebc-4cec-8f79-404cfa2a4eb2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/homework/add.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/add.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/home.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/home2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/home3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/home4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/home5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/home6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/home7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/progs_bar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/Питон.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/telega.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/21_telega.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/add.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/add.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/home.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/home2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/home3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/home4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/home5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/home6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/home7.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/progs_bar.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Питон.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/21_telega.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telega.py" beforeDir="false" afterPath="$PROJECT_DIR$/telega.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -245,22 +223,22 @@
       <screen x="0" y="31" width="1920" height="1049" />
     </state>
     <state x="743" y="316" width="434" height="487" key="FileChooserDialogImpl/0.31.1920.1049@0.31.1920.1049" timestamp="1609185954435" />
-    <state width="1032" height="210" key="GridCell.Tab.0.bottom" timestamp="1609760929804">
+    <state width="1109" height="123" key="GridCell.Tab.0.bottom" timestamp="1609763293514">
       <screen x="0" y="31" width="1920" height="1049" />
     </state>
-    <state width="1032" height="210" key="GridCell.Tab.0.bottom/0.31.1920.1049@0.31.1920.1049" timestamp="1609760929804" />
-    <state width="1032" height="210" key="GridCell.Tab.0.center" timestamp="1609760929803">
+    <state width="1109" height="123" key="GridCell.Tab.0.bottom/0.31.1920.1049@0.31.1920.1049" timestamp="1609763293514" />
+    <state width="1109" height="123" key="GridCell.Tab.0.center" timestamp="1609763293514">
       <screen x="0" y="31" width="1920" height="1049" />
     </state>
-    <state width="1032" height="210" key="GridCell.Tab.0.center/0.31.1920.1049@0.31.1920.1049" timestamp="1609760929803" />
-    <state width="1032" height="210" key="GridCell.Tab.0.left" timestamp="1609760929803">
+    <state width="1109" height="123" key="GridCell.Tab.0.center/0.31.1920.1049@0.31.1920.1049" timestamp="1609763293514" />
+    <state width="1109" height="123" key="GridCell.Tab.0.left" timestamp="1609763293514">
       <screen x="0" y="31" width="1920" height="1049" />
     </state>
-    <state width="1032" height="210" key="GridCell.Tab.0.left/0.31.1920.1049@0.31.1920.1049" timestamp="1609760929803" />
-    <state width="1032" height="210" key="GridCell.Tab.0.right" timestamp="1609760929804">
+    <state width="1109" height="123" key="GridCell.Tab.0.left/0.31.1920.1049@0.31.1920.1049" timestamp="1609763293514" />
+    <state width="1109" height="123" key="GridCell.Tab.0.right" timestamp="1609763293514">
       <screen x="0" y="31" width="1920" height="1049" />
     </state>
-    <state width="1032" height="210" key="GridCell.Tab.0.right/0.31.1920.1049@0.31.1920.1049" timestamp="1609760929804" />
+    <state width="1109" height="123" key="GridCell.Tab.0.right/0.31.1920.1049@0.31.1920.1049" timestamp="1609763293514" />
     <state width="1897" height="225" key="GridCell.Tab.1.bottom" timestamp="1609171518923">
       <screen x="0" y="31" width="1920" height="1049" />
     </state>
