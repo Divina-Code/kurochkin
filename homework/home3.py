@@ -18,8 +18,8 @@ points = 0
 
 while True:
     word = list(choice(lis).lower())
-    w = shuffle(word)
-    print("word:", ''.join(w))
+
+    print("word:", ''.join(word))
 
     inp = input("Enter what word was print: ")
 

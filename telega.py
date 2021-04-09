@@ -1,11 +1,10 @@
 #!/usr/bin/env python3
 
 import telebot
-from random import randint as rid
-
 bot = telebot.TeleBot('1259165465:AAF0YRiXtF5Rn29H9VgRfELm366qBIb5oXM')
 
 # mods
+
 
 @bot.message_handler(content_types=['text'])
 def ans_mess(message):
